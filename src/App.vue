@@ -109,10 +109,8 @@ export default {
 
 <style>
 body {
-  background-image: url('@/assets/algonquin.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; /* Keeps the background in place when scrolling */
+  background-color: #1e1e1e; /* Cool dark grey color for dark mode */
+  color: #e0e0e0; /* Light text for visibility against the dark background */
   margin: 0;
   padding: 0;
 }
