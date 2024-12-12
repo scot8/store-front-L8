@@ -40,7 +40,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #0046be; /* Best Buy blue */
+  background-color: #000000; /* Best Buy blue */
   color: #fff;
   padding: 1rem 2rem; /* Increased padding for a bigger navbar */
   position: fixed;
